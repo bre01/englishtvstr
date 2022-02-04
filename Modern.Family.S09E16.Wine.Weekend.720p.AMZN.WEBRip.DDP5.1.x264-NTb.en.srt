@@ -7,6 +7,7 @@ Obviously, this is the living room.
 There's a fully stocked bar in the den,
 stock:1.股票
     2.v 进货 备有 
+    3.I'm trying to change file 
 
 3
 00:00:29,112 --> 00:00:30,427
